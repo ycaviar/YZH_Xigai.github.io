@@ -1,0 +1,24 @@
+# 原始题库文件（不部署）
+*.docx
+
+# Python 辅助脚本（不部署）
+*.py
+
+# 中间数据文件（不部署）
+questions.json
+questions_dedup.json
+rulings.json
+answer_conflicts.docx
+
+# IDE 和系统文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 日志和临时文件
+*.log
+*.tmp
+__pycache__/
